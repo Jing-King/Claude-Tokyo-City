@@ -1,0 +1,5 @@
+{
+  "name": "Claude-Tokyo-City",
+  "owner": { "name": "Jing-King" },
+  "plugins": [{ "name": "tokyo-city-night", "source": "./" }]
+}

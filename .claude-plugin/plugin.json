@@ -1,0 +1,10 @@
+{
+  "name": "tokyo-city-night",
+  "version": "1.0.0",
+  "description": "Tokyo City Night colors for the Claude desktop app: deep indigo surfaces, soft blue text, neon blue/purple accents",
+  "author": {
+    "name": "Jing-King"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/Jing-King/Claude-Tokyo-City"
+}
